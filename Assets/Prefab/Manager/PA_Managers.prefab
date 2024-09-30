@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2914845677998489820
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3768877300771554770}
+  - component: {fileID: 9090249997225892109}
+  m_Layer: 0
+  m_Name: PA_Managers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3768877300771554770
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2914845677998489820}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9090249997225892109
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2914845677998489820}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d041201847506b74cb1375c7a193dbc9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _sfxSucces:
+    Guid:
+      Data1: 1184544442
+      Data2: 1099628090
+      Data3: -1267803503
+      Data4: -1535460582
+    Path: event:/sfxSucces
+  _sfxDeath:
+    Guid:
+      Data1: -1332264430
+      Data2: 1339271786
+      Data3: -1666686786
+      Data4: 1993749434
+    Path: event:/sfxDeath
+  _sfxDamagePlayer:
+    Guid:
+      Data1: 1193120809
+      Data2: 1097790162
+      Data3: -700714880
+      Data4: -1615287625
+    Path: event:/sfxDamagePlayer
+  _sfxDamageFoe:
+    Guid:
+      Data1: -1186847410
+      Data2: 1307395258
+      Data3: -2026858094
+      Data4: 494159747
+    Path: event:/sfxDamageFoe
+  _sfxWin:
+    Guid:
+      Data1: 2777092
+      Data2: 1100614258
+      Data3: -1200010074
+      Data4: -848514783
+    Path: event:/sfxWin
+  _sfxKeyboard:
+    Guid:
+      Data1: -1632694042
+      Data2: 1135707147
+      Data3: -388850777
+      Data4: -1231538825
+    Path: event:/sfxKeyboard
+  _sfxValidateWord:
+    Guid:
+      Data1: -124502542
+      Data2: 1200824623
+      Data3: -549321553
+      Data4: -251604954
+    Path: event:/sfxValidateWord
+  _sfxJumpNSlide:
+    Guid:
+      Data1: 1759087590
+      Data2: 1316319906
+      Data3: -1187781714
+      Data4: -1890282369
+    Path: event:/sfxJumpNSlide
+  _music:
+    Guid:
+      Data1: 1641633280
+      Data2: 1196091352
+      Data3: 655590561
+      Data4: 330832471
+    Path: event:/MUS_Event

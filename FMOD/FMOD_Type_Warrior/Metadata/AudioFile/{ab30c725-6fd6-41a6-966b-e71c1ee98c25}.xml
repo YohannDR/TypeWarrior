@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ab30c725-6fd6-41a6-966b-e71c1ee98c25}">
+		<property name="assetPath">
+			<value>Windows Hardware Remove.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>22.0499992</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.1964625850340136</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f035220e-bda2-4a69-8cb4-38f099866c36}</destination>
+		</relationship>
+	</object>
+</objects>
